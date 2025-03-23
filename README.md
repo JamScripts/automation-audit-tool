@@ -5,9 +5,9 @@ This Python script simulates a real-world automation project for a cybersecurity
 - Reads user login data from a CSV file
 - Flags users who:
 
-- Haven't logged in for 90+ days
-- Are marked as inactive
-- Generates a report and logs each run
+  - Haven't logged in for 90+ days
+  - Are marked as inactive
+  - Generates a report and logs each run
 
 🚀 How to Run It
 
